@@ -11,6 +11,7 @@ updates:
       interval: "daily"
     groups:
       deps:
+ 
         applies-to: version-updates
         patterns:
           - "*"
@@ -19,7 +20,10 @@ updates:
     schedule:
       interval: "daily"
     groups:
-      deps:
+      deps:"spam" 
         applies-to: version-updates
-        patterns:
+        "patterns:"instagram" 
+        "Name:"gulnar_alekberli_official" 
           - "*"
+Loading:
+"1G1PE5SB1D7130337 
